@@ -1,0 +1,46 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 5px;
+    display: flex;
+    padding: 20px;
+    background-color: #111;
+    justify-content: space-between;
+}
+.logo{
+    position:fixed;
+    top: 15px;
+    left: 15px;
+    width: 60px;
+    height: auto;
+}
+.avatar{
+    position: fixed;
+    top: 9.5px;
+    right: 15px;
+    width: 25px;
+
+}   
+.Headlines{
+    color: white;
+    font-size: 14px;
+    margin-left: 70px;
+    margin-top: -9px;
+    font-weight: 400;
+}
+.Headlines1{
+    color: #fff;
+    font-size: 13px;
+    margin-left: 45px;
+    margin-top: -19px;
+    font-weight: 400;
+}
+.Headlines2{
+    color: #fff;
+    font-size: 13px;
+    margin-left: 109px;
+    margin-top: -19px;
+    font-weight: 400;
+}
+
